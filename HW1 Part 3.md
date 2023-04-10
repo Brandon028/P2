@@ -1,7 +1,10 @@
 ## picture: 
-![[Pasted image 20230409220013.png]]
+![Image](me.png)
 
-![[git.png]]![[P2.png]]
+![Image](git.png)
+
+![Image](P2.png)
+
 
 ## me as a programmer
  I consider myself and entry level to intermediate programmer, but I want to get to the level of a **software engineer**. 
@@ -16,11 +19,26 @@ import pandas as pd
 df = pd.DataFrame()
 ```
 
-here is the link to the [documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
+here is the relative link to the [README](README.md)
 
 ## me as a person
 
-section link to me as a programmer: [[HW1 Part 3#picture:]]
+section link to me as a programmer: [pro](https://github.com/Brandon028/P2/edit/main/HW1%20Part%203.md#me-as-a-programmer)
 
-relative link to my picture []
+my favorite animals in no order are:
+- tuna
+- sea bass
+- sardine
+
+my favorite foods in order are:
+1. tuna
+2. chicken
+3. vegetables
+
+things i want to do today is:
+- [x] shower
+- [ ] wash my hair
+- [ ] eat tuna
+
+
 
