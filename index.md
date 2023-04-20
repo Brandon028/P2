@@ -1,5 +1,5 @@
 ## picture: 
-![Image](me.png)
+![Image](photo.jpg)
 
 ![Image](git.png)
 
